@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468494619862",
+    "project_id": "file-tracking-system-fts",
+    "storage_bucket": "file-tracking-system-fts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468494619862:android:189fcd15db529570eea577",
+        "android_client_info": {
+          "package_name": "com.example.fts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468494619862-8idv1f74cpb2153va3j35d49gs5fsk92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBy9VbtjGJnFMVl0sU2_mNbNSJetnEh6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468494619862-8idv1f74cpb2153va3j35d49gs5fsk92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
